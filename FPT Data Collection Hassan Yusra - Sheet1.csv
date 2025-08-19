@@ -1,0 +1,70 @@
+Reagons ,Total # Heritage Parks,# Affected by Climate Change (CC),percentage,,,,,,
+New Zealand,3,0,0.00%,,,,,,
+Central America,18,7,38.89%,,,,,,
+Central Asia,19,0,0.00%,,,,,,
+Australia,20,2,10.00%,,,,,,
+Caribbean,23,6,26.09%,,,,,,
+Pacific Islands,28,2,7.14%,,,,,,
+South-Eastern,47,1,2.13%,,,,,,
+Southern Asia,66,2,3.03%,,,,,,
+South America,70,8,11.43%,,,,,,
+Eastern Asia,99,0,0.00%,,,,,,
+Middle East,99,6,6.06%,,,,,,
+Africa,108,24,22.22%,,,,,,
+Europe and North America,573,25,4.36%,,,,,,
+Mean ,90.23076923,6.384615385,,,,,,,
+Median ,47,2,,,,,,,
+mode ,99,0,,,,,,,
+Standard Deviation,143.4804483,8.510174906,112.1055821,,,,,,
+Correlation,0.7291960753,Strong Positive,,,,,,,
+LOBF,0.0416x + 2.64,,,,,,,,
+Interpolation for x = 5,0.0416(17) + 2.64 = 3.3472,"if there are 17 heritage sites, approximately 3 sites will be affected",,,,,,,
+,"Because the average region has fewer than 90 parks, some will likely be affected. In a region with only 17 heritage parks, a small number, approximately 3 would likely be affected due to the limited total of heritage parks.",,,,,,,,
+,,,,,,,,,
+Relationship:,Common cause,"The relationship between the Total number of Heritage sites (x) and the amount affected by Climate Change (y) is a common cause relationship. An external variable, which is climate change (z), is causing an increase in affected sites (y) out of the total amount of heritage sites (x)",,,,,,,
+,,,,,,,,,
+"The mean number of total heritage parks is 90.2, but this is skewed by Europe and North America having 573 parks.",,,,,,,,,
+,,,,,,,,,
+"The median is 47, which better shows the typical region since it’s not affected by extreme values.",,,,,,,,,References:
+,,,,,,,,,"Africa. (n.d.). UNESCO World Heritage Centre. Retrieved May 5, 2025, from https://whc.unesco.org/en/africa/"
+"The mode is 99, which appears more than once and shows that some regions share the same total. However, the data varies too much for the mode to be very useful.",,,,,,,,,
+,,,,,,,,,"Central Africa World Heritage Forest Initiative (CAWHFI). (n.d.). UNESCO World Heritage Centre. Retrieved May 5, 2025, from https://whc.unesco.org/en/cawhfi/"
+"The mean number of the y-variable (affected sites) is 6.4, but this is pulled up by Africa’s 24 affected sites.",,,,,,,,,
+,,,,,,,,,"Hofmeyr, A. (2024, October 24). African Safaris to UNESCO World Heritage Sites in Africa. African Budget Safaris. Retrieved May 5, 2025, from https://www.africanbudgetsafaris.com/blog/african-safaris-unesco-world-heritage-sites/"
+"The median is 2, showing that most regions have fewer affected sites.",,,,,,,,,
+,,,,,,,,,"ICOMOS. (n.d.). Impacts, Vulnerability, and Understanding risks from climate change to culture and heritage. https://openarchive.icomos.org/id/eprint/2718/1/ICSM%20CHC%20White%20Paper%20II-%20Impacts,%20vulnerability,%20and%20understanding%20risks%20of%20climate%20change%20for%20culture%20and%20heritage.pdf#page=33"
+"The mode is 0, meaning several regions have no sites affected by climate change at all.",,,,,,,,,
+,,,,,,,,,
+"The standard deviation for total heritage parks is 143.5, showing a wide range between regions.",,,,,,,,,"International protection of heritage: DOC's international agreements. (n.d.). Department of Conservation. Retrieved May 5, 2025, from https://www.doc.govt.nz/about-us/international-agreements/world-heritage/"
+,,,,,,,,,
+"For affected sites, the standard deviation is 8.5, meaning the number affected stays fairly low and consistent.",,,,,,,,,"The impact of climate change on cultural heritage. (n.d.). European Parliament. Retrieved April 18, 2025, from https://www.europarl.europa.eu/RegData/etudes/BRIE/2024/762282/EPRS_BRI(2024)762282_EN.pdf"
+,,,,,,,,,
+,,,,,,,,,"Lindsey, R., & Dahlman, L. (n.d.). Climate Change: Global Temperature | NOAA Climate.gov. Climate.gov. Retrieved April 18, 2025, from https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature"
+,,,,,,,,,
+,,,,,,,,,"List of World Heritage Sites in Eastern Asia. (n.d.). Wikipedia. Retrieved May 5, 2025, from https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Eastern_Asia"
+,,,,,,,,,
+,,,,,,,,,"List of World Heritage Sites in Northern and Central Asia. (n.d.). Retrieved May 5, 2025, from https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Southern_Asia and https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Northern_and_Central_Asia#:~:text=The%20UNESCO%20"
+,,,,,,,,,
+,,,,,,,,,"List of World Heritage Sites in Oceania. (n.d.). Wikipedia. Retrieved May 5, 2025, from https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Oceania"
+,,,,,,,,,
+,,,,,,,,,"Piperno, D. R. (2020, April 14). Leveraging legacy archaeological collections as proxies for climate and environmental research. PubMed Central. Retrieved April 18, 2025, from https://pmc.ncbi.nlm.nih.gov/articles/PMC7165441/"
+,,,,,,,,,
+,,,,,,,,,"Sharma, G. (2024, November 27). 4 UNESCO Heritage Sites Under Threat. Earth.Org. Retrieved April 18, 2025, from https://earth.org/heritage-at-risk-4-unesco-sites-under-threat/"
+,,,,,,,,,
+,,,,,,,,,"South America UNESCO. (n.d.). https://www.southamerica.travel/south-america/unesco#:~:text=There%20are%20over%2070%20Cultural,to%20name%20just%20a%20few"
+,,,,,,,,,
+,,,,,,,,,"UNESCO World Heritage Sites in the Middle East. (n.d.). Everything-Everywhere. https://everything-everywhere.com/unesco-world-heritage-sites-middle-east/#:~:text=There%20are%2099%20UNESCO%20World,each%20of%20these%20sites%20below:"
+,,,,,,,,,
+,,,,,,,,,"UNESCO World Heritage Sites of the Caribbean Vacation Packages | UNESCO World Heritage Sites of the Caribbean Vacations. (n.d.). Tripmasters. Retrieved May 5, 2025, from https://www.tripmasters.com/latin/unesco_world_heritage_sites_of_the_caribbean/multicountry/vacations"
+,,,,,,,,,
+,,,,,,,,,"UNESCO World Heritage Sites of Central America Vacation Packages | UNESCO World Heritage Sites of Central America Vacations. (n.d.). Tripmasters. Retrieved May 5, 2025, from https://www.tripmasters.com/latin/unesco_world_heritage_sites_of_central_america/multicountry/vacations"
+,,,,,,,,,
+,,,,,,,,,"Unesco World Heritage in Southeast Asia. (n.d.). SeaArch. https://www.southeastasianarchaeology.com/unesco-world-heritage-in-southeast-asia/#:~:text=As%20of%202024%2C%20there%20are,of%20Preah%20Vihear%2C%20Koh%20Ker"
+,,,,,,,,,
+,,,,,,,,,"United Nations geoscheme. (n.d.). Wikipedia. Retrieved May 5, 2025, from https://en.wikipedia.org/wiki/United_Nations_geoscheme"
+,,,,,,,,,
+,,,,,,,,,"World Heritage Centre - Climate Change and World Heritage. (n.d.). UNESCO World Heritage Centre. Retrieved April 18, 2025, from https://whc.unesco.org/en/climatechange/"
+,,,,,,,,,
+,,,,,,,,,"World Heritage in Danger. (n.d.). UNESCO World Heritage Centre. Retrieved May 5, 2025, from https://whc.unesco.org/en/danger/"
+,,,,,,,,,
+,,,,,,,,,"World Heritage List Statistics. (n.d.). UNESCO World Heritage Centre. Retrieved May 5, 2025, from https://whc.unesco.org/en/list/stat/"
