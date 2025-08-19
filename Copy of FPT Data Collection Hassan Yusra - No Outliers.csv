@@ -1,0 +1,19 @@
+Reagons ,Total # Heritage Parks,# Affected by Climate Change (CC),percentage
+New Zealand,3,0,0.00%
+Central America,18,7,38.89%
+Central Asia,19,0,0.00%
+Australia,20,2,10.00%
+Caribbean,23,6,26.09%
+Pacific Islands,28,2,7.14%
+South-Eastern,47,1,2.13%
+Southern Asia,66,2,3.03%
+South America,70,8,11.43%
+Eastern Asia,99,0,0.00%
+Middle East,99,6,6.06%
+Mean,44.72727273,3.090909091,
+median ,28,2,
+mode,99,0,
+Standard Devation ,33.86470407,3.048099259,
+correlation,0.1668937753,weak positive ,
+LOBF ,0.015x + 2.42,,
+Extrapolation for x = 110,0.015(110) + 2.42 = 4.07,,
