@@ -1,4 +1,4 @@
-Reagons ,Total # Heritage Parks,# Affected by Climate Change (CC),
+Regons ,Total # Heritage Parks,# Affected by Climate Change (CC),
 New Zealand,3,0,
 Central America,18,7,
 Central Asia,19,0,
@@ -18,4 +18,5 @@ mode ,99,0,
 Standard Deviation,143.4804483,8.510174906,112.1055821
 Correlation,0.7291960753,Strong Positive,
 LOBF,0.0416x + 2.64,,
+
 Interpolation for x = 5,0.0416(17) + 2.64 = 3.3472,,
